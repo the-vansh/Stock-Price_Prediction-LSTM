@@ -35,3 +35,9 @@ yfinance
 matplotlib
 streamlit
 ```
+
+## Running the Application
+```
+streamlit run main.py
+```
+
