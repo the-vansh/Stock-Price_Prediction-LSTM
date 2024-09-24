@@ -41,3 +41,16 @@ streamlit
 streamlit run main.py
 ```
 
+## Contributors
+
+- **Vansh Sani** - Creator and Maintainer
+
+
+## Contact
+
+For any issues or inquiries, please contact [Vansh Saini](mailto:contactvanshsaini@gmail.com).
+
+---
+
+Thank you for exploring the project! We hope you find it exciting and useful. If you have any questions or feedback, please feel free to reach out.
+
